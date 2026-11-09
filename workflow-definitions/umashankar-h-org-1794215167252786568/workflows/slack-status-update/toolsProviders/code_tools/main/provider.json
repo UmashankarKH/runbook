@@ -1,0 +1,1 @@
+{ "scope": "run", "integrations": [{ "connectionConfigId": "slack", "actions": ["send-message"] }] }

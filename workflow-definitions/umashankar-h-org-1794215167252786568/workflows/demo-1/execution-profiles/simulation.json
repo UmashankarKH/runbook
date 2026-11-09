@@ -1,0 +1,15 @@
+{
+  "codeTools": {
+    "default": "execute",
+    "overrides": {}
+  },
+  "connections": {},
+  "browserProviders": {
+    "default": "execute",
+    "overrides": {}
+  },
+  "delegations": {
+    "default": "execute",
+    "overrides": {}
+  }
+}

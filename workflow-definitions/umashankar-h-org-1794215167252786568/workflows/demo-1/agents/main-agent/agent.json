@@ -1,0 +1,7 @@
+{
+  "type": "text",
+  "name": "Main Agent",
+  "model": "anthropic:claude-sonnet-4-6",
+  "promptFormat": "task@1",
+  "toolBindings": []
+}

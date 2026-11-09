@@ -1,0 +1,10 @@
+{
+  "description": "Posts a status update to the umashankar-worktrial Slack channel and appends the send time in UTC. Returns the channel ID and the message timestamp; throws if Slack rejects the message.",
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "message": { "type": "string", "description": "The status update text in Slack mrkdwn, one to three short sentences." }
+    },
+    "required": ["message"]
+  }
+}

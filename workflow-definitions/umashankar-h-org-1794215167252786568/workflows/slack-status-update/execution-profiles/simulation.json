@@ -1,0 +1,8 @@
+{
+  "codeTools": { "default": "execute", "overrides": {} },
+  "connections": {
+    "slack": { "connectionId": "01a1bf8f-f733-775c-8c5e-dd50d0e06e13", "actions": { "default": "simulated", "overrides": {} } }
+  },
+  "browserProviders": { "default": "execute", "overrides": {} },
+  "delegations": { "default": "execute", "overrides": {} }
+}

@@ -1,0 +1,6 @@
+{
+  "defaultExecutionProfiles": {
+    "simulation": "simulation",
+    "production": "production"
+  }
+}
